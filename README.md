@@ -6,7 +6,7 @@
 * babel
 
 #### To start:
-1. `git clone https://github.com/darkgraycat/react-boilerplate.git`
+1. `git clone -b minimal https://github.com/darkgraycat/react-boilerplate.git`
 2. `npm install`
 
 #### Development mode
