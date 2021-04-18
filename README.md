@@ -25,4 +25,8 @@ Then just open `index.html` with Live Server
 # minimal react-boilerplate
 If you searching solution lighter than 40
 try my minimal react-boilerplate from
-this repo on `minimal` branch
+this repo at `minimal` branch
+
+# react-boilerplate
+Or try boilerplate with css-modules
+at `with-css-modules` branch
