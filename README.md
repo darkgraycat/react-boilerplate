@@ -1,12 +1,13 @@
-# minimal react-boilerplate
+# react-boilerplate with css-modules
 
 ## Includes
 * webpack
 * react
 * babel
+* css-modules
 
 #### To start:
-1. `git clone -b minimal https://github.com/darkgraycat/react-boilerplate.git`
+1. `git clone -b with-css-modules https://github.com/darkgraycat/react-boilerplate.git`
 2. `npm install`
 
 #### Development mode
@@ -17,7 +18,7 @@
 
 Then just open `index.html` with Live Server
 
-*node_modules folder size ~25 mb*
+*node_modules folder size ~30 mb*
 
 
 # react-boilerplate
